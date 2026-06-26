@@ -198,7 +198,7 @@ python train.py
 python train.py --overfit_test
 ```
 
-Training produces checkpoints in `/kaggle/working/checkpoints/` and final model weights in `/kaggle/working/final_models/`:
+Training produces checkpoints in `/kaggle/working/checkpoints/` and final model weights in [`https://www.kaggle.com/datasets/narendrabayutama/backup-clinical-llm-guardrail/final_models/`](https://www.kaggle.com/datasets/narendrabayutama/backup-clinical-llm-guardrail):
 
 - `encoder_final.pt` — Trained ClinicalLatentEncoder state dict
 - `projection_final.pt` — Trained LatentProjection state dict
